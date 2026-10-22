@@ -2,8 +2,8 @@ import { useEffect, useMemo, useState } from 'react';
 import {
   Activity, Archive, ArrowRight, BarChart3, Bell, BookOpen, Check, CheckCircle2, ChevronRight,
   CirclePlus, ClipboardList, Clock3, Copy, Download, Edit3, FileText, Flag, Heart, History,
-  LayoutDashboard, Menu, MoreHorizontal, Pause, Pencil, Play, Plus, RefreshCw, Search, Settings,
-  Sparkles, Target, Timer, Trash2, TrendingDown, TrendingUp, Trophy, UserRound, X, Zap
+  LayoutDashboard, Menu, Pause, Pencil, Play, Plus, RefreshCw, Search, Settings,
+  Sparkles, Target, Trash2, TrendingDown, Trophy, UserRound, X
 } from 'lucide-react';
 import { supabase } from '@/lib/supabase';
 
